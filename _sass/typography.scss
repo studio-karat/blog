@@ -1,0 +1,20 @@
+.post-meta time {
+  font-family: inconsolata, Lucida Console, Courier, monospace;
+  font-weight: 300;
+  font-size: 0.8em;
+}
+
+.article-content p {
+  column-gap: 0;
+  -moz-column-gap: 0;
+  -webkit-column-gap: 0;
+  column-count: 1;
+  -moz-column-count: 1;
+  -webkit-column-count: 1;
+}
+
+.blog-link {
+  position: absolute;
+  right: .8em;
+  top: .8em;
+}
