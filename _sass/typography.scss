@@ -19,6 +19,49 @@
   top: .8em;
 }
 
-p, ul li {
-  color: #222;
+article {
+  p, ul li {
+    color: #222;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li { 
+    padding-left: 2em; 
+    text-indent: -1.4em;
+  }
+
+  li:before {
+    content: "\002022";
+    padding-right: 1em;
+    color: #04c4bb;
+  }
+}
+
+header a:hover {  
+  text-decoration: none;
+}
+
+nav {
+  text-transform: uppercase;
+  font-size: 0.85em;
+  letter-spacing: 0.1em;
+  color: rgba(85, 98, 112, .3);
+
+  a {
+    opacity: 0.8;
+    display: inline-block;
+    margin: 1em 0.5em; 
+    font-family: inconsolata, Lucida Console, Courier, monospace;
+    font-weight: 300;
+    transition: opacity 0.3s ease;
+
+    &:hover {
+      opacity: 1;
+    }
+  }
 }

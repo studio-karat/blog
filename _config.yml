@@ -6,14 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Studio Karat Blog
+email: "&#0104;&#0101;&#0108;&#0108;&#0111;&#064;&#0107;&#097;&#0114;&#097;&#0116;&#046;&#0115;&#0116;&#0117;&#0100;&#0105;&#0111;"
+email_mailto: "&#0109;&#097;&#0105;&#0108;&#0116;&#0111;&#058;&#0104;&#0101;&#0108;&#0108;&#0111;&#064;&#0107;&#097;&#0114;&#097;&#0116;&#046;&#0115;&#0116;&#0117;&#0100;&#0105;&#0111;"
+ust: USt-IdNr. DE304968411
 description: > # this means to ignore newlines until "baseurl:"
   We are an information and interface design studio based in Berlin.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://karat.studio" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://karat.studio"
+twitter_username: studiokarat
+github_username:  studio-karat
 
 # Build settings
 markdown: kramdown
