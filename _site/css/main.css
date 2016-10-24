@@ -66,6 +66,9 @@ pre {
   right: .8em;
   top: .8em; }
 
+p, ul li {
+  color: #222; }
+
 .post-list {
   margin: 0;
   padding: 0; }
