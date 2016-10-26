@@ -4,7 +4,7 @@ title: "Wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf die Daten
 title_alt: "Wirkt das Zweck&shy;entfremdungs&shy;verbot in Berlin? &ndash;<br />Ein Blick auf die Daten von Airbnb"
 date:  2016-10-24 10:03:05 +0200
 teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg"
-permalink: report
+permalink: zweckentfremdung
 lang: de_DE
 ---
 ![Zweckentfremdung? Ein Jahr Airbnb-Daten](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg)
