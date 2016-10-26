@@ -3,8 +3,12 @@ layout: post
 title: "Wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf die Daten von Airbnb"
 title_alt: "Wirkt das Zweck&shy;entfremdungs&shy;verbot in Berlin? &ndash;<br />Ein Blick auf die Daten von Airbnb"
 date:  2016-10-24 10:03:05 +0200
+teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg"
 permalink: report
+lang: de_DE
 ---
+![Zweckentfremdung? Ein Jahr Airbnb-Daten](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg)
+
 Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt [www.airbnbvsberlin.de][airbnb-vs-berlin]{:target="_blank"} im März 2015 erstmals Angebotsdaten von Airbnb analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen.
 
 Am 1. Mai 2016 trat in Berlin das sogenannte Zweck&shy;entfremdungs&shy;verbot in Kraft, das Vermietung von kompletten Wohnungen über Airbnb und andere Portale untersagt und mit Strafen von bis zu 100&#8239;000 Euro belegt. Dennoch stehen noch immer viele komplette Wohnungen auf der Plattform zur Vermietung.
@@ -39,7 +43,7 @@ Ein wichtiger Aspekt in der Debatte um Airbnb ist die Unterscheidung zwischen An
 
 ![Anteil kommerzielle und nicht-kommerzielle Airbnb-Angebote in Berlin pro Woche, März 2015 &ndash; Oktober 2016](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-kommerzielle-und-nicht-kommerzielle-Airbnb-Angebote-in-Berlin-pro-Woche.png)
 
-Schaut man sich die Anzahl kommerziell angebotener Wohnungen<a href="#footer">*</a> auf der Plattform an, so fällt auch hier ein starker Anstieg ab März 2015 auf. Da im gleichen Zeitraum allerdings auch die Gesamtanzahl an Angeboten steigt, bleibt der Anteil kommerzieller Wohnungen mit ca. 30&#8239;% bis November 2015 relativ konstant. Interessant ist aber der deutliche Anstieg ab November 2015 bis Februar 2016. In diesem Zeitraum sind zwischenzeitlich fast 40&#8239;% aller Angebote auf der Plattform kommerzielle Wohnungen. Inzwischen ist der Anteil deutlich gesunken und **nur noch etwa jede fünfte Wohnung auf Airbnb kann als kommerziell eingestuft werden**.
+Schaut man sich die absolute Anzahl kommerziell angebotener Wohnungen<a href="#footer">*</a> auf der Plattform an, so fällt auch hier ein starker Anstieg ab März 2015 auf. Da im gleichen Zeitraum allerdings auch die Gesamtanzahl an Angeboten steigt, bleibt der Anteil kommerzieller Wohnungen mit ca. 30&#8239;% bis November 2015 relativ konstant. Interessant ist aber der deutliche Anstieg ab November 2015 bis Februar 2016. In diesem Zeitraum sind zwischenzeitlich fast 40&#8239;% aller Angebote auf der Plattform kommerzielle Wohnungen. Inzwischen ist der Anteil deutlich gesunken und **nur noch etwa jede fünfte Wohnung auf Airbnb kann als kommerziell eingestuft werden**.
 
 <section markdown="1">
 ### Zusammenfassung
@@ -51,6 +55,8 @@ Schaut man sich die Anzahl kommerziell angebotener Wohnungen<a href="#footer">*<
 
 ### Haben wir etwas vergessen? Kontaktieren Sie uns!
 Wenn Sie Feedback, Kritik oder weitere Fragen haben, kontaktieren Sie uns bitte unter folgender E-Mail-Adresse: [{{ site.email }}]({{ site.email_mailto }}) und erfahren Sie mehr unter [{{ site.url_display }}]({{ site.url }}).
+
+Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die entsprechenden Dateien finden Sie hier als [PDF](https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE) und als [PNG](https://drive.google.com/open?id=0B0251ePKIbdRdTRTaHBxcGV4aW8).
 
 <footer><a name="footer">*</a> Als kommerzielle Wohnungen bezeichnen wir alle Wohnungen von Anbietern, die mehr als eine Wohnung auf der Plattform anbieten. Dabei ist diese Definition lediglich als hinreichende Bedingung zu verstehen, da bspw. auch die Auslastung der angebotenen Wohnungen eine Rolle spielt. Unsere Definition unterschätzt somit die tatsächliche Anzahl an kommerziellen Wohnungen tendenziell. Andere wichtige Faktoren wie die Mietauslastung der angebotenen Wohnungen (in Tagen) werden nicht einbezogen, da sie in den von uns betrachteten Daten nicht zur Verfügung standen.</footer>
 
