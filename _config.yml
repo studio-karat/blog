@@ -14,6 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We are an information and interface design studio based in Berlin.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://karat.studio"
+url_display: "www.karat.studio"
 twitter_username: studiokarat
 github_username:  studio-karat
 

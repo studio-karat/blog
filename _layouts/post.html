@@ -2,11 +2,13 @@
 layout: default
 ---
 <article class="pure-g lined" itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="pad-box pure-u-1 pure-u-md-1-3">
-    <h2>{{ page.title_alt || page.title}}</h2>
-    <span class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</span>
-  </div>
-  <div class="pad-box pure-u-1 pure-u-md-2-3 article-content">
+	<div class="pad-box pure-u-1 pure-u-sm-1-12 pure-u-md-1-6 pure-u-lg-1-5 visible-sm"><br/></div>
+  <div class="pad-box pure-u-1 pure-u-sm-5-6 pure-u-md-2-3 pure-u-lg-3-5 article-content">
+  	<header>
+	  	<h2>{{ page.title_alt || page.title}}</h2>
+	    <span class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d. %b %Y" | replace: "Mar", "Mär" | replace: "May", "Mai" | replace: "Oct", "Okt" | replace: "Dec", "Dez" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</span>
+    </header>
     {{ content }}
   </div>
+  <div class="pad-box pure-u-1 pure-u-sm-1-12 pure-u-md-1-6 pure-u-lg-1-5 visible-sm"><br/></div>
 </article>
