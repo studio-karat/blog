@@ -43,17 +43,26 @@ article {
     h3 {
       margin-top: 0;
     }
+
+    ul {
+      margin-bottom: 0;
+
+      li {
+        margin-bottom: 15px;
+      }
+    }
   }
 
   ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    margin-bottom: 30px;
 
     li { 
       padding-left: 2em; 
       text-indent: -1.4em;
-      margin-bottom: 15px;
+      margin-bottom: 5px;
 
       &:before {
         content: "\002022";
