@@ -8,7 +8,7 @@ permalink: airbnbmisuse
 lang: en_EN
 ---
 
-Sie suchen nach der [Deutschen Version](http://karat.studio/blog/zweckentfremdung){:target="_blank" rel="alternate" hreflang="de"}?
+Sie suchen nach der [Deutschen Version](http://karat.studio/blog/zweckentfremdung){:rel="alternate" hreflang="de"}?
 
 ![Misused? A year of Airbnb data](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg)
 
@@ -60,7 +60,7 @@ If you have any feedback, criticism or further questions you can contact us by e
 
 Want to use the graphics for your website or in a presentation? We have made the files freely available for use here in [PDF](https://drive.google.com/open?id=0B0251ePKIbdRM01yaU5ldFgyVjQ) and [PNG](https://drive.google.com/open?id=0B0251ePKIbdRY0EzakpUSjNRVlk) formats. Please quote [{{ site.url_display }}]({{ site.url }}) as your source.
 
-This article has been translated by [Benjamin Haughton](https://twitter.com/benhaughton){:target="_blank"}. The German version [can be found here](http://karat.studio/blog/zweckentfremdung){:target="_blank" rel="alternate" hreflang="de"}.
+This article has been translated by [Benjamin Haughton](https://twitter.com/benhaughton){:target="_blank"}. The German version [can be found here](http://karat.studio/blog/zweckentfremdung){:rel="alternate" hreflang="de"}.
 
 ### Press review
 This article has also been published here:
@@ -68,7 +68,7 @@ This article has also been published here:
 - [Gründerszene - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?](http://www.gruenderszene.de/allgemein/berlin-airbnb-vermietung-wohnung-gesetz){:target="_blank" rel="alternate"}
 
 This article has been featured here:
-- [CityLab – The City With the World's Toughest Anti-Airbnb Laws](http://www.citylab.com/housing/2016/12/berlin-has-the-worlds-toughest-anti-airbnb-laws-are-they-working/509024/){:target="_blank"}
+- [CityLab - The City With the World's Toughest Anti-Airbnb Laws](http://www.citylab.com/housing/2016/12/berlin-has-the-worlds-toughest-anti-airbnb-laws-are-they-working/509024/){:target="_blank"}
 - [Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after](http://www.settle-in-berlin.com/airbnb-ban-berlin/){:target="_blank"}
 - [RBB - Airbnb mit neuen Kampagnen gegen Zweckentfremdungsverbot](http://www.rbb-online.de/wirtschaft/beitrag/av7/airbnb-buergervereine-gegen-zweckentfremdungsverbot.html){:target="_blank"}
 - [Spiegel Online - Berlin kann Zweckentfremdungsverbot nicht durchsetzen](http://www.spiegel.de/reise/aktuell/zweckentfremdungsverbot-verhindert-kaum-airbnb-buchungen-a-1120830.html){:target="_blank"}
