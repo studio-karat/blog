@@ -2,11 +2,13 @@
 layout: post
 title: "Wie wirkt das Zweckentfremdungsverbot in Berlin? – Ein Blick auf neue Daten von Airbnb"
 title_alt: "Wie wirkt das Zweck&shy;entfremdungs&shy;verbot in Berlin? &ndash;<br />Ein Blick auf neue Daten von Airbnb"
-date:  2016-10-24 10:03:05 +0200
+date: 2016-10-24 10:03:05 +0200
 teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg"
 permalink: zweckentfremdung
 lang: de_DE
 ---
+Looking for the [English version](http://karat.studio/blog/airbnbmisuse){:target="_blank" rel="alternate" hreflang="en"}?
+
 ![Zweckentfremdung? Ein Jahr Airbnb-Daten](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg)
 
 Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt [airbnbvsberlin.de][airbnb-vs-berlin]{:target="_blank"} im März 2015 erstmals Angebotsdaten von Airbnb in Deutschland analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen.
@@ -57,17 +59,20 @@ Wenn Sie Feedback, Kritik oder weitere Fragen haben, kontaktieren Sie uns bitte 
 
 Sie möchten die Grafiken auf Ihrer Seite oder in Ihrer Präsentation verwenden? Die entsprechenden Dateien stellen wir Ihnen hier als [PDF](https://drive.google.com/open?id=0B0251ePKIbdROFZaNjNBZ2EyWlE) und als [PNG](https://drive.google.com/open?id=0B0251ePKIbdRdTRTaHBxcGV4aW8) zur freien Verwendung zur Verfügung. Bitte geben Sie bei Verwendung diese Quelle [{{ site.url_display }}]({{ site.url }}) an.
 
+Looking for the [English version](http://karat.studio/blog/airbnbmisuse){:target="_blank" rel="alternate" hreflang="en"}?
+
 ### Pressespiegel
 Dieser Artikel ist außerdem hier erschienen:
 - [Wired - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?](https://www.wired.de/collection/business/analyse-zum-zweckentfremdungsverbot-hat-das-berliner-gesetz-gegen-airbnb-gewirkt){:target="_blank" rel="alternate"}
-- [Gründerszene - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?](http://www.gruenderszene.de/allgemein/berlin-airbnb-vermietung-wohnung-gesetz){:target="_blank"}{:target="_blank" rel="alternate"}
+- [Gründerszene - Analyse: Hat das Gesetz gegen Airbnb in Berlin gewirkt?](http://www.gruenderszene.de/allgemein/berlin-airbnb-vermietung-wohnung-gesetz){:target="_blank" rel="alternate"}
 
 Dieser Artikel wurde erwähnt auf:
 - [RBB - Airbnb mit neuen Kampagnen gegen Zweckentfremdungsverbot](http://www.rbb-online.de/wirtschaft/beitrag/av7/airbnb-buergervereine-gegen-zweckentfremdungsverbot.html){:target="_blank"}
 - [Spiegel Online - Berlin kann Zweckentfremdungsverbot nicht durchsetzen](http://www.spiegel.de/reise/aktuell/zweckentfremdungsverbot-verhindert-kaum-airbnb-buchungen-a-1120830.html){:target="_blank"}
 - [Netzpolitik - Airbnb in Berlin: Wieder mehr Angebote und ein gesponserter Lobbyclub](https://netzpolitik.org/2016/airbnb-in-berlin-wieder-mehr-angebote-und-ein-gesponserter-lobbyclub/){:target="_blank"}
 - [Tagesspiegel Checkpoint - Ausgabe 4.11.2016](http://utf.rdir.de/form.do?agnCI=875&agnFN=fullview&agnUID=A.B.BSvO.TfL.BTaq0.YI4fodCh1xHpMxhtlIjnuA){:target="_blank"}
-- [Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after](http://www.settle-in-berlin.com/author/settle_in_berlin/){:target="_blank"}
+- [Settle-in-Berlin - The impact of the airbnb ban in Berlin – 6 months after](http://www.settle-in-berlin.com/airbnb-ban-berlin/){:target="_blank"}
+- [CityLab – The City With the World's Toughest Anti-Airbnb Laws](http://www.citylab.com/housing/2016/12/berlin-has-the-worlds-toughest-anti-airbnb-laws-are-they-working/509024/){:target="_blank"}
 
 <footer><a name="footer">*</a> Als kommerzielle Wohnungen bezeichnen wir alle Wohnungen von Anbietern, die mehr als eine Wohnung auf der Plattform anbieten. Dabei ist diese Definition lediglich als hinreichende Bedingung zu verstehen, da auch andere Faktoren &ndash; bspw. die Auslastung der angebotenen Wohnungen &ndash; eine Rolle spielen. Unsere Definition ist somit eine eher konservative Schätzung der tatsächlichen Anzahl an kommerziellen Wohnungen. Andere wichtige Faktoren, wie die Mietauslastung der angebotenen Wohnungen (in Tagen) werden nicht einbezogen, da sie in den von uns betrachteten Daten nicht zur Verfügung standen.</footer>
 
