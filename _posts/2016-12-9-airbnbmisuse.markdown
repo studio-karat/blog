@@ -8,9 +8,9 @@ permalink: airbnbmisuse
 lang: en_EN
 ---
 
-Sie suchen nach der [Deutschen Version](http://karat.studio/blog/zweckentfremdung){:rel="alternate" hreflang="de"}?
+Sie suchen nach der [deutschen Version](http://karat.studio/blog/zweckentfremdung){:rel="alternate" hreflang="de"}?
 
-![Misused? A year of Airbnb data](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg)
+![Airbnb misused? A year of Airbnb data](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg)
 
 In Berlin the subject of Airbnb and the associated debate over the housing shortage is currently on everyone’s lips. Since publishing our analysis and making Airbnb listings data from across Germany public in March 2015 as part of our [airbnbvsberlin.com][airbnb-vs-berlin]{:target="_blank"} project, the debate has only intensified. 
 
