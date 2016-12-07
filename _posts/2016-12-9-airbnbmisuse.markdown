@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "What effect is the partial Airbnb ban having in Berlin? – A look at new data from Airbnb"
-title_alt: "What effect is the partial Airbnb ban having in Berlin? &ndash;<br /> A look at new data from Airbnb"
+title_alt: "What effect is the partial Airbnb ban having in Berlin? &ndash; A look at new data from Airbnb"
 date: 2016-12-7 20:03:05 +0200
-teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg"
+teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg"
 permalink: airbnbmisuse
 lang: en_EN
 ---
@@ -23,7 +23,7 @@ Now, five months on from the ban’s introduction, it’s time to take stock: ha
 Looking at the weekly trend in Berlin Airbnb listings since March last year, **the number of listings grew rapidly between March 2015 and January 2016**. In March 2015 there were almost 11,500 listings on the site, which by January 2016 had grown to 19,700, a rise of 68&#8239;% in just 10 months.
 
 ![Weekly number of Airbnb listings in Berlin, March 2015 &ndash; October 2016]( 	
-https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anzahl-Airbnb-Angebote-in-Berlin-pro-Woche.svg)
+https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Weekly-number-of-Airbnb-listings-in-Berlin.svg)
 
 ### Deterred, uneasy or just confused – what is the effect of the ban on Airbnb hosts?
 
@@ -35,7 +35,7 @@ The reason for this is undoubtedly the unenthusiatic way in which the ban has be
 
 The debate over the repurposing of housing due to Airbnb has centred primarily on people taking complete properties off the market and listing them on the site, and less on the individual rooms for rent. The data show that the number of whole properties as a share of the total has been constant for some time.
 
-![Weekly share of complete apartments, private rooms and shared rooms across Airbnb listings in Berlin, March 2015 &ndash; October 2016](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-komplette-Wohnung-Zimmer-und-geteilte-Zimmer-an-allen-Airbnb-Angeboten-in-Berlin-pro-Woche.svg)
+![Weekly share of complete apartments, private rooms and shared rooms across Airbnb listings in Berlin, March 2015 &ndash; October 2016](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Weekly-share-of-complete-apartments,-private-rooms-and-shared-rooms-across-Airbnb-listings-in-Berlin.svg)
 
 In March 2015 the site featured 11,500 complete properties, representing nearly two-thirds of the total number of listings. This share remained broadly the same until January 2016. Since March this year, when the the number of listings fell sharply, the trend has changed: the share of complete properties listed on the site has fallen by 10 percentage points to **just around half of all the listings**. Currently there are fewer than 6,500 complete apartments available on the site. This is another sign that the ban primarily deterred hosts letting out complete properties, at least for a while. Since September this year the trend appears to have changed again.
 
@@ -43,7 +43,7 @@ In March 2015 the site featured 11,500 complete properties, representing nearly 
 
 An important part of the Airbnb debate is the difference between hosts who let out their property every so often, for example when on holiday (known as ‘Home sharers’ in Airbnb parlance), and professional hosts who make their living by continually letting out several properties for commercial gain. This distinction is important given that it is this latter group that is responsible for taking housing off the conventional market. For this reason, we have taken a closer look at these commercial operators and their listings:
 
-![Weekly share of commercial and non-commercial Airbnb listings in Berlin, March 2015 &ndash; October 2016](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Anteil-kommerzielle-und-nicht-kommerzielle-Airbnb-Angebote-in-Berlin-pro-Woche.svg)
+![Weekly share of commercial and non-commercial Airbnb listings in Berlin, March 2015 &ndash; October 2016](https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Weekly-share-of-commercial-and-non-commercial-Airbnb-listings-in-Berlin.svg)
 
 Looking at the total number of commercial listings<a href="#footer">*</a> on the platform, there has clearly been sharp growth since March 2015. Since the total number of listings also rose in the same period, the share of commercially-let apartments remained constant at 30&#8239;% of the total market up until November 2015. What’s interesting is the clear growth between November 2015 and February 2016. In this period the share of commercial properties rose to almost 40&#8239;% of the listings on the site. Since then, that share has fallen significantly, with **commercial properties marking up just a fifth of Airbnb listings**.
 
