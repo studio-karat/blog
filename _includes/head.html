@@ -8,12 +8,12 @@
   <script src="https://use.typekit.net/ibh4elt.js"></script>
   <script type="text/javascript">try{Typekit.load({ async: true });}catch(e){}</script>
 
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.short %}{{ page.short | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" content="data,design,code,visualisation"/>
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
   <meta property="og:image" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.teaser }}{% endif %}"/>
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}"/>
+  <meta property="og:description" content="{% if page.short %}{{ page.short | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}"/>
   <meta property="og:site_name" content="{{ page.title }}"/>
   <meta property="og:url" content="http://karat.studio/blog/{% if page.permalink %}{{ page.permalink }}{% endif %}"/>
   <meta property="og:type" content="{% if page.id %}article{% else %}website{% endif %}"/>
@@ -22,7 +22,7 @@
   <meta property="twitter:card" content="summary_large_image"/>
   <meta property="twitter:creator" content="@studiokarat"/>
   <meta property="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}"/>
-  <meta property="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}"/>
+  <meta property="twitter:description" content="{% if page.short %}{{ page.short | strip_html | strip_newlines }}{% else %}{{ site.description }}{% endif %}"/>
   <meta property="twitter:image" content="{% if page.teaser %}{{ page.teaser }}{% else %}{{ site.teaser }}{% endif %}"/>
 
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png"/>

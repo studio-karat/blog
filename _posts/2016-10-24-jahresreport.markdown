@@ -5,6 +5,7 @@ title_alt: "Wie wirkt das Zweck&shy;entfremdungs&shy;verbot in Berlin? &ndash;<b
 date: 2016-10-24 10:03:05 +0200
 teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report.jpg"
 permalink: zweckentfremdung
+short: "Das Thema Airbnb und die damit verbundene Diskussion um die Verknappung von Wohnraum sind in Berlin mittlerweile in aller Munde. Seitdem unser Projekt airbnbvsberlin.de im März 2015 erstmals Angebotsdaten von Airbnb in Deutschland analysierte und öffentlich zugänglich machte, hat die Debatte Fahrt aufgenommen."
 lang: de_DE
 ---
 Looking for the [English version](http://karat.studio/blog/airbnbmisuse){:rel="alternate" hreflang="en"}?

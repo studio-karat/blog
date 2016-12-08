@@ -5,6 +5,7 @@ title_alt: "What effect is the partial Airbnb ban having in Berlin? &ndash; A lo
 date: 2016-12-7 20:03:05 +0200
 teaser: "https://s3.eu-central-1.amazonaws.com/media.jonasparnow.de/airbnb/Teaser-Report-en.jpg"
 permalink: airbnbmisuse
+short: "In Berlin the subject of Airbnb and the associated debate over the housing shortage is currently on everyone’s lips. Since publishing our analysis and making Airbnb listings data from across Germany public in March 2015 as part of our airbnbvsberlin.com project, the debate has only intensified."
 lang: en_EN
 ---
 
